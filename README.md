@@ -1,0 +1,1 @@
+Sample Node.js web app for CI deployments testings
